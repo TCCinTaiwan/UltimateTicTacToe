@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">終極井字遊戲</string>
+    <string name="online_game">線上遊戲</string>
+    <string name="stand_alone">單機遊戲</string>
+    <string name="restart">重新開始</string>
+    <string name="title_activity_main">主畫面</string>
+    <string name="error_status_404">找不到</string>
+    <string name="you_win">你贏了!!</string>
+</resources>

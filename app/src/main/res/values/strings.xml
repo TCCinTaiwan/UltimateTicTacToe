@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ultimate Tic Tac Toe</string>
+    <string name="stand_alone">Stand-alone</string>
+    <string name="online_game">Online game</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="restart">Restart</string>
+    <string name="error_status_404">Not found</string>
+    <string name="you_win">You Win!!</string>
+</resources>
